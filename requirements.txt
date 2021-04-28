@@ -1,1 +1,5 @@
 mkdocs
+sphinx
+sphinx-tabs
+sphinx_rtd_theme
+sphinxcontrib.yt
