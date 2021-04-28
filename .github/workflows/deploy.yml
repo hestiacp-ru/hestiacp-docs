@@ -17,4 +17,4 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXTRA_PACKAGES: sphinx, sphinx-tabs, sphinx_rtd_theme, sphinxcontrib.yt
+          EXTRA_PACKAGES: sphinx sphinx-tabs sphinx_rtd_theme sphinxcontrib.yt
