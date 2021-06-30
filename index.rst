@@ -3,19 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Hestia Control Panel's documentation!
+   Добро пожаловать в документацию к панели управления Hestia!
 ================================================
 
 .. note::
-  Current documentation is subject of change. Hestia is under active development now.
-  
+  Текущая документация может быть изменена. Hestia сейчас находится в активной разработке.
+
 .. note::
-  This documentation has been community-written.
+  Эта документация написана сообществом.
 
 
 .. toctree::
    :maxdepth: 2
-   
+
    getting_started.rst
    release_notes.rst
    admin_docs.rst
