@@ -17,3 +17,4 @@ jobs:
         uses: w3ref/mkdocs-deploy-gh-pages@hestiacp
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: conf.py
