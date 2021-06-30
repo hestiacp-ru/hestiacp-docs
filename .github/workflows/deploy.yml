@@ -17,4 +17,3 @@ jobs:
         uses: w3ref/mkdocs-deploy-gh-pages@hestiacp
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: docs.hestiacp.su
